@@ -1,5 +1,4 @@
 @import url("fontawesome-all.min.css");
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,100;1,300;1,400;1,700&family=Lustria&display=swap');
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -84,7 +83,7 @@ html {
 
 body {
     background: #F8F8F8;
-    font-family: 'Lato', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-size: 17pt;
     line-height: 1.75em;
@@ -109,7 +108,7 @@ body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 }
 
 input, textarea, select {
-    font-family: 'Lato', sans-serif;
+    font-family: "Poppins", sans-serif;
     font-weight: 300;
     font-size: 17pt;
     line-height: 1.75em;
@@ -122,7 +121,7 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0 0 1em 0;
     font-weight: 100;
     line-height: 1.5em;
-    font-family: 'Lustria', serif;
+    font-family: "Poppins", sans-serif;
 }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
